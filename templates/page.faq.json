@@ -1,0 +1,305 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": true,
+        "description": "",
+        "show_page_content": false,
+        "page_width": "full",
+        "page_alignment": "left"
+      }
+    },
+    "text_with_icons_d64LLX": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_CGrfhT": {
+          "type": "icon",
+          "settings": {
+            "icon": "return",
+            "heading": "Heading",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link": ""
+          }
+        },
+        "icon_36anzH": {
+          "type": "icon",
+          "settings": {
+            "icon": "shirt",
+            "heading": "Heading",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link": ""
+          }
+        },
+        "icon_pQfczb": {
+          "type": "icon",
+          "settings": {
+            "icon": "shoe",
+            "heading": "Heading",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link": ""
+          }
+        },
+        "icon_f64wTE": {
+          "type": "icon",
+          "settings": {
+            "icon": "silhouette",
+            "heading": "Heading",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link": ""
+          }
+        },
+        "icon_znqrrq": {
+          "type": "icon",
+          "settings": {
+            "icon": "ruler",
+            "heading": "Heading",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_CGrfhT",
+        "icon_36anzH",
+        "icon_pQfczb",
+        "icon_f64wTE",
+        "icon_znqrrq"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_position": "top",
+        "icon_size": "medium",
+        "heading_size": "medium",
+        "mobile_swipe": true,
+        "add_border": true,
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#252525",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "collapsible_content_jFEcqV": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_jAk4wW": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_DgRdgt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": true,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_PgFfBX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_jAk4wW",
+        "collapsible_tab_DgRdgt",
+        "collapsible_tab_PgFfBX"
+      ],
+      "settings": {
+        "heading": "Orders",
+        "add_border": false,
+        "marker_color": "#fd6262",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "collapsible_content_gMBp9F": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_g9J3FF": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_9QTA8H": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_8PHWzQ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_g9J3FF",
+        "collapsible_tab_9QTA8H",
+        "collapsible_tab_8PHWzQ"
+      ],
+      "settings": {
+        "heading": "Shipping",
+        "add_border": false,
+        "marker_color": "#fd6262",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "collapsible_content_WQUggg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_cQnJKt": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_J6pk8M": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_fatVUk": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_xqwePq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How do I return or exchange a gift?",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_cQnJKt",
+        "collapsible_tab_J6pk8M",
+        "collapsible_tab_fatVUk",
+        "collapsible_tab_xqwePq"
+      ],
+      "settings": {
+        "heading": "Returns",
+        "add_border": false,
+        "marker_color": "#fd6262",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "promotion_blocks_UG34aY": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "promotion_G7p8cL": {
+          "type": "promotion",
+          "settings": {
+            "line_1_text": "Line 1",
+            "line_2_text": "Line 2",
+            "description": "<p>Promotion description<\/p>",
+            "button_text": "Explore",
+            "button_link": "",
+            "color_bg": "#ebf7f7",
+            "color_text": "#2f5e7f"
+          }
+        },
+        "promotion_wxbY4r": {
+          "type": "promotion",
+          "settings": {
+            "line_1_text": "Line 1",
+            "line_2_text": "Line 2",
+            "description": "<p>Promotion description<\/p>",
+            "button_text": "Explore",
+            "button_link": "",
+            "color_bg": "#ebf7f7",
+            "color_text": "#2f5e7f"
+          }
+        }
+      },
+      "block_order": [
+        "promotion_G7p8cL",
+        "promotion_wxbY4r"
+      ],
+      "settings": {
+        "heading": "",
+        "mobile_swipe": true,
+        "image_ratio": "square",
+        "content_orientation": "horizontal",
+        "columns_desktop": 4,
+        "image_layout": "image_first",
+        "text_alignment": "text-left",
+        "line_1_size": "h4",
+        "line_2_size": "h5",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "spacer_QayxAE": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 15,
+        "spacer_desktop": 30,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "text_with_icons_d64LLX",
+    "collapsible_content_jFEcqV",
+    "collapsible_content_gMBp9F",
+    "collapsible_content_WQUggg",
+    "promotion_blocks_UG34aY",
+    "spacer_QayxAE"
+  ]
+}
